@@ -1,4 +1,4 @@
-local fps = 400
+local fps = 100000
  
     if setfpscap then
         setfpscap(fps)
